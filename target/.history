@@ -1,0 +1,15 @@
+eclipse
+compile
+test
+runMain kmeans.KMeansRunner
+compile
+runMain kmeans.KMeansRunner
+compile
+test
+runMain kmeans.KMeansRunner
+compile
+runMain kmeans.KMeansRunner
+compile
+runMain kmeans.KMeansRunner
+run-main kmeans.fun.ScalaShop
+submit rgithinji@yahoo.com FZ5GX1UQNwY32Ula
